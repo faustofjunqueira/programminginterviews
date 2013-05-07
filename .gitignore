@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+
+# OS X Files #
+.DS_Store
